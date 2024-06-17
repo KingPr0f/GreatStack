@@ -99,3 +99,10 @@ nav .logo{
     right: 13%;
     bottom: 0;
 }
+.header h1 span {
+    background: linear-gradient(#000,#000);
+    background-repeat: no-repeat;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-size: 0%;
+}
